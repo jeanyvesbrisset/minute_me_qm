@@ -5,7 +5,7 @@ This is a app I did during my internship at Quantmetry. The application was made
 
 Features:
 
-- Recording of audio
-- Transcription of those audio files
+- Recording of audio (meeting, interviews... for example)
+- Written transcription of those audio files
 
 The back-end infrastructure was made on AWS, serverless.
